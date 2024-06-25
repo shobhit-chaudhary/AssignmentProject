@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assignment\\AssignmentProject\\Service\\BlogManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{250DB235-A1A6-4713-A988-113970D9A4C8}|BlogManagement\\BlogManagement.csproj|d:\\assignment\\assignmentproject\\service\\blogmanagement\\blogmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250DB235-A1A6-4713-A988-113970D9A4C8}|BlogManagement\\BlogManagement.csproj|solutionrelative:blogmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250DB235-A1A6-4713-A988-113970D9A4C8}|BlogManagement\\BlogManagement.csproj|d:\\assignment\\assignmentproject\\service\\blogmanagement\\blogmanagement\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250DB235-A1A6-4713-A988-113970D9A4C8}|BlogManagement\\BlogManagement.csproj|solutionrelative:blogmanagement\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250DB235-A1A6-4713-A988-113970D9A4C8}|BlogManagement\\BlogManagement.csproj|d:\\assignment\\assignmentproject\\service\\blogmanagement\\blogmanagement\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250DB235-A1A6-4713-A988-113970D9A4C8}|BlogManagement\\BlogManagement.csproj|solutionrelative:blogmanagement\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250DB235-A1A6-4713-A988-113970D9A4C8}|BlogManagement\\BlogManagement.csproj|d:\\assignment\\assignmentproject\\service\\blogmanagement\\blogmanagement\\services\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250DB235-A1A6-4713-A988-113970D9A4C8}|BlogManagement\\BlogManagement.csproj|solutionrelative:blogmanagement\\services\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250DB235-A1A6-4713-A988-113970D9A4C8}|BlogManagement\\BlogManagement.csproj|d:\\assignment\\assignmentproject\\service\\blogmanagement\\blogmanagement\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250DB235-A1A6-4713-A988-113970D9A4C8}|BlogManagement\\BlogManagement.csproj|solutionrelative:blogmanagement\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Assignment\\AssignmentProject\\Service\\BlogManagement\\BlogManagement\\Startup.cs",
+              "RelativeDocumentMoniker": "BlogManagement\\Startup.cs",
+              "ToolTip": "D:\\Assignment\\AssignmentProject\\Service\\BlogManagement\\BlogManagement\\Startup.cs",
+              "RelativeToolTip": "BlogManagement\\Startup.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwCAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:17:04.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\Assignment\\AssignmentProject\\Service\\BlogManagement\\BlogManagement\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "BlogManagement\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\Assignment\\AssignmentProject\\Service\\BlogManagement\\BlogManagement\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "BlogManagement\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:15:14.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "D:\\Assignment\\AssignmentProject\\Service\\BlogManagement\\BlogManagement\\Services\\BlogService.cs",
+              "RelativeDocumentMoniker": "BlogManagement\\Services\\BlogService.cs",
+              "ToolTip": "D:\\Assignment\\AssignmentProject\\Service\\BlogManagement\\BlogManagement\\Services\\BlogService.cs",
+              "RelativeToolTip": "BlogManagement\\Services\\BlogService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:13:10.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "D:\\Assignment\\AssignmentProject\\Service\\BlogManagement\\BlogManagement\\Services\\IBlogService.cs",
+              "RelativeDocumentMoniker": "BlogManagement\\Services\\IBlogService.cs",
+              "ToolTip": "D:\\Assignment\\AssignmentProject\\Service\\BlogManagement\\BlogManagement\\Services\\IBlogService.cs",
+              "RelativeToolTip": "BlogManagement\\Services\\IBlogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:12:17.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "D:\\Assignment\\AssignmentProject\\Service\\BlogManagement\\BlogManagement\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "BlogManagement\\Models\\BlogPost.cs",
+              "ToolTip": "D:\\Assignment\\AssignmentProject\\Service\\BlogManagement\\BlogManagement\\Models\\BlogPost.cs",
+              "RelativeToolTip": "BlogManagement\\Models\\BlogPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:09:41.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

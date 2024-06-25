@@ -1,0 +1,8 @@
+<div class="container mt-4" *ngIf="post">
+    <h2>{{ post.username }}</h2>
+    <p><strong>Date Created:</strong> {{ post.dateCreated | date }}</p>
+    <p>{{ post.text }}</p>
+    <a class="btn btn-primary" [routerLink]="['/edit', post.id]">Edit</a>
+    <a class="btn btn-secondary" routerLink="/">Back to List</a>
+  </div>
+  

@@ -1,0 +1,7 @@
+D:\Assignment\AssignmentProject\Service\BlogManagement\BlogManagement\obj\Debug\net5.0\BlogManagement.csproj.AssemblyReference.cache
+D:\Assignment\AssignmentProject\Service\BlogManagement\BlogManagement\obj\Debug\net5.0\BlogManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\AssignmentProject\Service\BlogManagement\BlogManagement\obj\Debug\net5.0\BlogManagement.AssemblyInfoInputs.cache
+D:\Assignment\AssignmentProject\Service\BlogManagement\BlogManagement\obj\Debug\net5.0\BlogManagement.AssemblyInfo.cs
+D:\Assignment\AssignmentProject\Service\BlogManagement\BlogManagement\obj\Debug\net5.0\BlogManagement.csproj.CoreCompileInputs.cache
+D:\Assignment\AssignmentProject\Service\BlogManagement\BlogManagement\obj\Debug\net5.0\BlogManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Assignment\AssignmentProject\Service\BlogManagement\BlogManagement\obj\Debug\net5.0\BlogManagement.sourcelink.json

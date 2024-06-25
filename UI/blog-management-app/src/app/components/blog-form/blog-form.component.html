@@ -1,0 +1,29 @@
+<div class="container mt-4">
+    <h2>{{ isEditMode ? 'Edit Post' : 'Create New Post' }}</h2>
+    <form [formGroup]="blogForm" (ngSubmit)="onSubmit()">
+      <div class="mb-3">
+        <label for="username" class="form-label">Username</label>
+        <input id="username" formControlName="username" class="form-control" />
+        <!-- <div *ngIf="blogForm.controls.username.invalid && blogForm.controls.username.touched" class="text-danger">
+          Username is required
+        </div> -->
+      </div>
+      <div class="mb-3">
+        <label for="dateCreated" class="form-label">Date Created</label>
+        <input id="dateCreated" formControlName="dateCreated" type="date" class="form-control" />
+        <!-- <div *ngIf="blogForm.controls.dateCreated.invalid && blogForm.controls.dateCreated.touched" class="text-danger">
+          Date is required
+        </div> -->
+      </div>
+      <div class="mb-3">
+        <label for="text" class="form-label">Text</label>
+        <textarea id="text" formControlName="text" class="form-control"></textarea>
+        <!-- <div *ngIf="blogForm.controls.text.invalid && blogForm.controls.text.touched" class="text-danger">
+          Text is required
+        </div> -->
+      </div>
+      <button class="btn btn-primary" type="submit">{{ isEditMode ? 'Update' : 'Create' }}</button>
+      <a class="btn btn-secondary" routerLink="/">Cancel</a>
+    </form>
+  </div>
+  
